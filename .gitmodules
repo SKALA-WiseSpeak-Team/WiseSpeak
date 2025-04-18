@@ -1,0 +1,6 @@
+[submodule "WiseSpeak-AI"]
+	path = WiseSpeak-AI
+	url = https://github.com/SKALA-WiseSpeak-Team/WiseSpeak-AI.git
+[submodule "WiseSpeak-Vue"]
+	path = WiseSpeak-Vue
+	url = https://github.com/SKALA-WiseSpeak-Team/WiseSpeak-Vue.git
